@@ -1,2 +1,2 @@
-# getgriddi.gethub.io
+# getgriddi.github.io
 Сайт
